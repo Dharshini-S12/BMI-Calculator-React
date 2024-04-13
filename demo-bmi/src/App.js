@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       {/* <ClassBMI></ClassBMI> */}
       <HooksBMI></HooksBMI>
-      <Hookseffect></Hookseffect>
+      {/* <Hookseffect></Hookseffect> */}
     </div>
   );
 }
